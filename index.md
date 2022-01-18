@@ -13,7 +13,7 @@
 **PC端**
 
 首页：
-![picture](../JINLIN/images/26ee72178d3ef204cfba836a4f4a9b2.png)
+![picture](images/26ee72178d3ef204cfba836a4f4a9b2.png)
 
 后台：
 ![picture](../JINLIN/images/网页捕获_18-1-2022_11431_42.192.72.187.jpeg)
