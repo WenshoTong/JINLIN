@@ -29,7 +29,7 @@
 
 后台：
 ![picture](images/微信图片_20220118111629.jpg)
-![picture](../JINLIN/images/微信图片_20220118111634.jpg)
+![picture](images/微信图片_20220118111634.jpg)
 
 效果：
 ![picture](images/微信图片_20220118111639.jpg)
