@@ -11,23 +11,25 @@
 ## 展示
 
 **PC端**
+
 首页：
-![picture](images/26ee72178d3ef204cfba836a4f4a9b2.png)
+![picture](JINLIN/images/26ee72178d3ef204cfba836a4f4a9b2.png)
 
 后台：
-![picture](images/网页捕获_18-1-2022_11431_42.192.72.187.jpeg)
-![picture](images/网页捕获_18-1-2022_11611_42.192.72.187.jpeg)
+![picture](JINLIN/images/网页捕获_18-1-2022_11431_42.192.72.187.jpeg)
+![picture](JINLIN/images/网页捕获_18-1-2022_11611_42.192.72.187.jpeg)
 
 效果：
-![picture](images/微信图片_20220118110642.png)
+![picture](JINLIN/images/微信图片_20220118110642.png)
 
 **移动端**
+
 首页：
-![picture](images/微信图片_20220118111617.jpg)
+![picture](JINLIN/images/微信图片_20220118111617.jpg)
 
 后台：
-![picture](images/微信图片_20220118111629.jpg)
-![picture](images/微信图片_20220118111634.jpg)
+![picture](JINLIN/images/微信图片_20220118111629.jpg)
+![picture](JINLIN/images/微信图片_20220118111634.jpg)
 
 效果：
-![picture](images/微信图片_20220118111639.jpg)
+![picture](JINLIN/images/微信图片_20220118111639.jpg)
