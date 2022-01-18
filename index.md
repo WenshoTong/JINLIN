@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# 锦鳞倒计时
 
-You can use the [editor on GitHub](https://github.com/WenshoTong/Jinlin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+可以自由设置节日的名称和时间，在首页打字展示倒计时。具有较强的可移植性。可以单独作为网站，也可以镶嵌进其他网站。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 基本信息
 
-### Markdown
+**项目英文名：**Jinlin
+**开发者：**考不过刘乐琪不改名
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 展示
 
-```markdown
-Syntax highlighted code block
+**PC端**
+首页：
+![picture](../images/26ee72178d3ef204cfba836a4f4a9b2.png)
 
-# Header 1
-## Header 2
-### Header 3
+后台：
+![picture](../images/网页捕获_18-1-2022_11431_42.192.72.187.jpeg)
+![picture](../images/网页捕获_18-1-2022_11611_42.192.72.187.jpeg)
 
-- Bulleted
-- List
+效果：
+![picture](../images/微信图片_20220118110642.png)
 
-1. Numbered
-2. List
+**移动端**
+首页：
+![picture](../images/微信图片_20220118111617.jpg)
 
-**Bold** and _Italic_ and `Code` text
+后台：
+![picture](../images/微信图片_20220118111629.jpg)
+![picture](../images/微信图片_20220118111634.jpg)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WenshoTong/Jinlin/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+效果：
+![picture](../images/微信图片_20220118111639.jpg)
